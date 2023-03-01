@@ -1,0 +1,52 @@
+
+#foto_perfil {
+    width: 240px;
+    height: 240px;
+    border: 1px solid black;
+    margin-top: 2px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline black;
+    font-size: 30px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d5e1df;
+}
+
+.flex-container {
+    flex-direction: column;
+    display: flex;
+    padding: 10px;
+    border: none;
+}
+
+.flex-container div {
+   
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    
+}
+
+#demoButton {
+    background-color: #034f84;
+    border-radius: 5px;
+    font-size: 30px;
+  
+}
+
+
+
+#demoButton2 {
+    background-color: #034f84;
+    border-radius: 5px;
+    font-size: 30px;
+    
+}
